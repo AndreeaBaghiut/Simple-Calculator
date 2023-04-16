@@ -8,3 +8,5 @@ The actionPerformed() method is called when the user interacts with any of the b
 The code also defines several variables to store the first and second operands and the result of the calculation. When the user presses the equals button, the code performs the appropriate arithmetic operation based on the operator, and updates the result in the textfield. The user can clear the textfield by pressing the clear button or delete the last character by pressing the delete button.
 
 Overall, the code is a basic implementation of a calculator application.
+![image](https://user-images.githubusercontent.com/128622173/232337693-be306680-8879-4dd6-a545-1bf8898ee417.png)
+
